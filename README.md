@@ -5,7 +5,7 @@
 # Microsoft.Github CI Demo im call - ContosoAir project on Azure
 
 Demo website application for Contoso Air.  
-Runs a nodejs server (Express v4.16) that stores customer booked flights in a CosmosDb database.
+Runs a node.js server (Express v4.16) that stores customer booked flights in a CosmosDb database.
 
 Powered by Azure Pipelines: [![Build Status](https://dev.azure.com/ms-at/ContosoAir/_apis/build/status/ContosoAir-CI?branchName=master)](https://dev.azure.com/ms-at/ContosoAir/_build/latest?definitionId=15&branchName=master)
 
